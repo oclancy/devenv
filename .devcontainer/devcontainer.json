@@ -2,6 +2,7 @@
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.187.0/containers/azure-terraform
 {
 	"name": "Firmus Software Azure",
+
 	"build": {
 		"dockerfile": "Dockerfile",
 		"args": { 
